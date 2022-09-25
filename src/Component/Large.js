@@ -35,9 +35,7 @@ export default function Menu({ productList, fetchProductByCategory, addOrder, ca
 
 
 
-        <div className="tittle-menu-item ">
-          <h2>Veg Pizza's</h2>
-        </div>
+        
         <div className="menu_wrap1">
 
           {
